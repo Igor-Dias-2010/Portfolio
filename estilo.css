@@ -36,7 +36,9 @@ h1 {
 #apresentacao {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-
+.igor{
+  margin-bottom: 20px;
+}
 body::-webkit-scrollbar {
   scrollbar-width: none;
 }

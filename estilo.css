@@ -229,3 +229,12 @@ footer p {
 h3 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+@media{
+  #navbar {
+  min-width: 10vh;
+  background-color: rgb(15, 15, 15);
+  border: 4px solid rgb(15, 15, 15);
+  border-end-start-radius: 10px;
+  border-end-end-radius: 10px;
+}
+}
